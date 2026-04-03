@@ -37,7 +37,7 @@ export default function SignupPage() {
       <div className="auth-card">
         <div className="auth-head">
           <div className="auth-logo">
-            The <span className="auth-logo-accent">Chronicle</span>
+            Nova <span className="auth-logo-accent">News</span>
           </div>
           <h1 className="auth-title">Join the Chronicle</h1>
           <p className="auth-sub">Create an account to save articles and summaries</p>
